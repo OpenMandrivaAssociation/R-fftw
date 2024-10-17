@@ -7,7 +7,7 @@ Release:          1
 Summary:          Fast FFT and DCT based on FFTW
 Group:            Sciences/Mathematics
 License:          GPLv2
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_1.0-3.tar.gz
 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
